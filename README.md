@@ -4,8 +4,10 @@ Bidea:
 0/100
 
 InfraR:
-Cloudflare pages
+aws lightsail? nestlify? google firebase
+ - spread accross platforms
 zoho email
-github repo
+github repo (try to integrate)
 phone ?
-codepen/w3 design
+codepen/w3/zen design
+domains? - cheap ones to start porkbun
